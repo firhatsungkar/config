@@ -1,0 +1,35 @@
+{
+    "editor.fontFamily": "Fira Code, Menlo",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 35,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.tabSize": 2,
+    "editor.tabCompletion": true,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showTabs": true,
+    "workbench.statusBar.visible": false,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.lineHeight": 1,
+    "php.suggest.basic": false,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.easymotion": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Slime",
+    "window.openFilesInNewWindow": "on",
+    "window.zoomLevel": 0
+}
